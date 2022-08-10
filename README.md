@@ -1,4 +1,4 @@
-# CRUD-Node_Mongo
+# CRUD NodeJS and MongoDB
 CRUD using NodeJS and Express and MongoDB as the Database as well. It also includes Handlebars as layouts for the views and Bootstrap for the styles. This project runs in a local environment
 
 ## Before start
